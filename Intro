@@ -1,0 +1,47 @@
+Hello everyone!
+We are Team Rescue Tech, and we are excited to introduce our project: the “Integrated Gas Leakage Detection and Prevention System with Web3”.
+
+Our team consists of :
+Utkarsh Kumar (Team Leader)
+Tanya Nayak
+Vidushi Srivastava
+Tanmay Nayak
+Sarthak Sharma
+Kanishka Varshney
+
+Problem Statement: The Ministry of Petroleum and Natural Gas reported 538 LPG-related accidents in 2022. Karnataka witnessed a 21.6% increase in fire accidents due to leaking LPG cylinders, rising from 512 cases in 2022 to 623 in 2023. This significant surge highlights an urgent need for innovative solutions to improve LPG safety. We seek effective measures to prevent, detect, and mitigate risks associated with LPG cylinder leaks to safeguard communities
+
+Our Solution:
+Team RescueTech introduces to you a user-defined Arduino-based IoT system for LPG gas leak detection and prevention in homes. Our fully autonomous module is designed to provide users with customizable gas settings, ensuring both cost-effectiveness and versatility. With multiple alarm functionalities and automatic supply cutoff triggered by gas concentration levels, our system guarantees real-time surveillance and robust safety measures without requiring user intervention.
+
+Tech Stack:
+Hardware:
+Arduino Microcontroller:***Central unit for controlling and processing data.
+Gas Sensor Module:
+MQ-4 Sensor: For detecting natural gas.
+MQ-3 Sensor: For detecting benzene and methane.
+Relay: Used to control the switching of external devices.
+Alarm Components: For alerting users in case of gas detection.
+
+Software:
+Arduino IDE: Development environment for writing and uploading code to the Arduino microcontroller.
+Programming languages: C and C++ for developing the system's firmware and logic.
+
+Git Hub repo link:
+
+Deployed project link:
+
+Demo Video Link:
+
+Presentation Link:
+
+We had an incredible time at the event, filled with learning and fun! Engaging activities like blindfolded typing added a unique twist to the experience. We were privileged to hear from fantastic speakers with extensive industry experience, making the sessions highly interactive and insightful.
+
+It was enlightening to gain new perspectives on industry practices and explore areas we hadn't delved into before.
+
+
+Help
+
+Save Draft
+
+Publish
