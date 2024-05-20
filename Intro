@@ -16,7 +16,7 @@ Team RescueTech introduces to you a user-defined Arduino-based IoT system for LP
 
 Tech Stack:
 Hardware:
-Arduino Microcontroller:***Central unit for controlling and processing data.
+Arduino Microcontroller:Central unit for controlling and processing data.
 Gas Sensor Module:
 MQ-4 Sensor: For detecting natural gas.
 MQ-3 Sensor: For detecting benzene and methane.
@@ -27,21 +27,7 @@ Software:
 Arduino IDE: Development environment for writing and uploading code to the Arduino microcontroller.
 Programming languages: C and C++ for developing the system's firmware and logic.
 
-Git Hub repo link:
-
-Deployed project link:
-
-Demo Video Link:
-
-Presentation Link:
 
 We had an incredible time at the event, filled with learning and fun! Engaging activities like blindfolded typing added a unique twist to the experience. We were privileged to hear from fantastic speakers with extensive industry experience, making the sessions highly interactive and insightful.
-
 It was enlightening to gain new perspectives on industry practices and explore areas we hadn't delved into before.
 
-
-Help
-
-Save Draft
-
-Publish
